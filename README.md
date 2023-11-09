@@ -36,7 +36,7 @@ I am a PhD candidate in the department of Computer Engineering at Amirkabir Univ
 
 ## Contact
 
-- **Email**: b.roshanfekr@aut.ac.ir
+- b.roshanfekr@aut.ac.ir
 - [**LinkedIn**](https://www.linkedin.com/in/behnam-roshanfekr-1b2206a3/)
 - [**GitHub**](https://github.com/broshanfekr)
 - [**Homepage**](https://ceit.aut.ac.ir/~roshanfekr)
